@@ -1,0 +1,64 @@
+.navbar{
+	background-color: #5cbdaa;
+	font-size: 15px;
+	font-style: bold;
+}
+
+.navFont{
+	color:#000000;
+	font-style: bold;
+}
+
+.navbar-brand{
+	color:#000000;
+}
+
+
+.connect{
+	border-bottom: 
+}
+
+h1{
+	padding-left: 45px;
+}
+
+
+
+.scratchGame{
+	width:350px;
+	height: 150px;
+	border:1px solid black;
+}
+
+.image2, .image3, .image4, .image5, .image6{
+	margin-bottom: 10px;
+	overflow: hidden;
+} 
+
+
+#github, #linkedin, #stack {
+    width:50px;
+    height:50px;
+    margin-left:55px;
+}
+
+h2{
+    text-align: center;
+    border-bottom: 1px solid #999999;
+}
+
+h3{
+	position: absolute;
+	margin-left: 70px;
+	background-color: rgba(255,255,255,0.8);
+	padding:5px 50px 5px 50px;
+}
+
+.panel-footer{
+    margin-top: 50px;
+    height:65px;
+    text-align: center;
+    
+}
+
+

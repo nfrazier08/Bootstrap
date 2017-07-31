@@ -1,0 +1,37 @@
+.navbar{
+	background-color: #5cbdaa;
+	font-size: 15px;
+	font-style: bold;
+}
+
+.navFont{
+	color:#000000;
+	font-style: bold;
+}
+
+.navbar-brand{
+	color:#000000;
+}
+
+
+.submit{
+	margin-top: 10px;
+}
+#github, #linkedin, #stack {
+    width:50px;
+    height:50px;
+    margin-left:55px;
+}
+
+h2{
+	text-align: center;
+	border-bottom: 1px solid #999999;
+
+}
+
+.panel-footer{
+	margin-top: 50px;
+	text-align: center;
+	height: 65px;
+	background-color: #E8C4AE;	
+}

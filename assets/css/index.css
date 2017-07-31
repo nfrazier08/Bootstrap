@@ -1,0 +1,48 @@
+.navbar{
+    background-color: #5cbdaa;
+    font-size: 15px;
+    font-style: bold;
+}
+
+.navFont{
+    color:#000000;
+    font-style: bold;
+}
+
+.navbar-brand{
+    color:#000000;
+}
+
+
+.rotate90{
+
+	-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    width:300px;
+    height:240px;
+    border:0.5px solid #cccccc;
+    margin-top: 50px;
+}
+
+h2{
+    text-align: center;
+    border-bottom: 1px solid #999999;
+
+}
+
+#github, #linkedin, #stack {
+    width:50px;
+    height:50px;
+    margin-left:55px;
+}
+
+.panel-footer{
+    margin-top: 50px;
+    height:65px;
+    text-align: center;
+    background-color: #E8C4AE;
+}
+
